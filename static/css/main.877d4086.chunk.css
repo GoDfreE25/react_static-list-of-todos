@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-color:#000}.todo_list{display:grid;grid-template-columns:repeat(3,1fr);grid-gap:25px;list-style-type:none}.todo_item{width:300px;background:grey;border:1px solid #000;border-radius:50px}.todo_checed,.todo_title,.user,.user_mail{text-align:center}.user_mail{display:flex;text-decoration:none;justify-content:center;color:#000;cursor:none}
+/*# sourceMappingURL=main.877d4086.chunk.css.map */
